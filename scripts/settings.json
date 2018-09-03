@@ -1,0 +1,13 @@
+{
+	"config": {
+		"theme": {
+			"currentTheme": "alshayaTheme",
+			"themes": [
+				"alshayaTheme",
+				"defaultTheme"
+			],
+			"baseTheme": "alshayaTheme"
+		},
+		"version": "6.10.2"
+	}
+}
